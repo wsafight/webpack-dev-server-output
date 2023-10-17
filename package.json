@@ -1,6 +1,6 @@
 {
-  "name": "webpack-dev-server-output",
-  "version": "0.0.6",
+  "name": "webpack-dev-server-output-new",
+  "version": "0.0.1",
   "description": "webpack-dev-server generate output file",
   "main": "index.js",
   "scripts": {
@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/memoryza/webpack-dev-server-output.git"
+    "url": "git+https://github.com/wsafight/webpack-dev-server-output.git"
   },
   "keywords": [
     "webpack-dev-server",
     "generate-output-file"
   ],
-  "author": "memoryza (jincai.wang@foxmail.com)",
+  "author": "wsafight",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/memoryza/webpack-dev-server-output/issues"
+    "url": "https://github.com/wsafight/webpack-dev-server-output/issues"
   },
-  "homepage": "https://github.com/memoryza/webpack-dev-server-output#readme",
+  "homepage": "https://github.com/wsafight/webpack-dev-server-output#readme",
   "devDependencies": {
-    "mkdirp": "^0.5.1",
-    "rimraf": "^2.6.1"
+    "mkdirp": "3.0.1",
+    "rimraf": "5.0.5"
   }
 }
